@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Nick Koscinski
-- I’m interested curious about machine and deep learning
+- I’m curious about machine and deep learning
 - I’m currently learning the basics of TensorFlow. I'll post my projects that I am currently working on in this GitHub
 - 📫 You can reach me via email (ndkoscinski@gmail.com) or via LinkedIn message (which is probably how you found this page)
 
